@@ -35,7 +35,7 @@ python 00_main.py
 02_data_cleaning.py                     # Limpieza de datos
 03_data_imputation.py                   # Etiquetado de sentimiento
 04_data_new_features.py                 # Validación cruzada
-06_data_saving.py                       # Exportación
+05_data_saving.py                       # Exportación
 resenas_transporte_santiago_1000.csv    # Dataset original
 requirements.txt                        # Dependencias
 ```
@@ -257,7 +257,7 @@ weighted avg       0.49    0.61      0.53      201
 
 ---
 
-### 5. Exportación (`06_data_saving.py`)
+### 5. Exportación (`05_data_saving.py`)
 
 Guardado y validación del dataset procesado.
 
@@ -399,7 +399,7 @@ pip install -r requirements.txt
 - `02_data_cleaning.py` - Limpieza y transformación
 - `03_data_imputation.py` - Etiquetado de sentimientos
 - `04_data_new_features.py` - Validación cruzada
-- `06_data_saving.py` - Exportación y validación final
+- `05_data_saving.py` - Exportación y validación final
 
 **Datos:**
 - `resenas_transporte_santiago_1000.csv` - Dataset original (entrada)

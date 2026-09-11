@@ -6,7 +6,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-> ⚠️ **Disclaimer educativo**: Este dataset fue provisto por el curso [Nombre del Curso/Profesor] con fines académicos.
+> ⚠️ **Disclaimer educativo**: Este dataset fue provisto con fines académicos.
 > Los datos son anonimizados y se usan solo para demostración de técnicas de ML/NLP.
 > No representan datos de producción ni deben usarse comercialmente.
 

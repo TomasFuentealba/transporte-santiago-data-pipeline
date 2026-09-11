@@ -1,0 +1,43 @@
+# Python
+__pycache_/*
+*.yp[cod]
+*$py.class
+.venv/
+env/
+
+data/ * KEEP CSV data */
+*.parquet
+*.xml
+
+ #Jupyter
+.ipynb_checkpoints/
+
+#ML Artifacts (NO versionar)
+*.h5
+*.xlite
+*.tflite
+*.pkl
+*.joblib*
+*.xml
+*.xml
+*.xml
+
+ #Logs & Reports
+*.log
+*.dl
+reports/
+mlruns/
+
+#OS/Editor
+.DS_Store
+Thumbs.db
+*.xwi
+*.xwo
+.vscode/
+.idea/
+
+#Environment (NMNCA SUBIR)
+.env
+.meb
+*.key
+*.pem
